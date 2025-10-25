@@ -30,7 +30,7 @@
 
 For support or custom orders, contact:
 - **Discord**: `khoii_fishh`
-- **Website**: [TR Lighting](https://tr-lighting.github.io)
+- **Website**: [TR Lighting](https://khoiixx.github.io/TR-LIGHTING-WEBSITE/products.html)
 
 ## License
 
@@ -38,4 +38,4 @@ For support or custom orders, contact:
 
 ---
 
-**Built with ❤️ using modern web technologies**
+**Built with ❤️**
